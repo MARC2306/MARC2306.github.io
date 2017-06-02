@@ -1,0 +1,18 @@
+  a:link {text-decoration: none;color:#403737;padding-left: 7px;padding-right: 7px;}
+  a:visited {text-decoration: none;color:#403737;}
+  a:hover {text-decoration: none;background-color: #f59700;}
+  a:active {text-decoration: none;background-color: #f59700;}
+ 
+#Inhalt {width: 900px; margin-left: auto; margin-right: auto; font-family: helvetica, sans-serif; letter-spacing: 4px}
+
+#logo {text-align: center; font-size: 150%; color: #747474;padding-bottom: 10px;padding-top: 30px}
+
+#navigation {text-align: center;font-size: 80%;padding-bottom: 10px;padding-left: 20px;padding-right: 20px}
+
+#text {font-size: 80%;letter-spacing: 10px;margin:20px}
+
+#footer {text-align: center; font-size: 80%;}
+
+#Produkt1 {padding-top: 60px}
+#Produkt1 p1{float: right;padding-right: 270px;font-size: 100%;}
+#Produkt1 a{margin-right: 15px;float: left}
